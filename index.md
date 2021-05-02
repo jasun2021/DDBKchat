@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 동대부고 신입생을 위한 챗봇
 
-You can use the [editor on GitHub](https://github.com/jasun2021/DDBKchat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+동대문구 장안동에 위치한 동대부고 신입생을 위한 안내 쳇봇입니다. 동대부고 신입생을 위한 챗봇에 오신 것을 환영합니다. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
