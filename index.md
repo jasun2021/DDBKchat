@@ -2,7 +2,7 @@
 
 동대문구 장안동에 위치한 동대부고 신입생을 위한 안내 쳇봇입니다. 동대부고 신입생을 위한 챗봇에 오신 것을 환영합니다. 
 
-### 
+### 동대부고 처음이지?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
