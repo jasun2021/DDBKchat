@@ -1,17 +1,17 @@
-## 동대부고 신입생을 위한 챗봇
+## 동대부고 신입생을 위한 도깨비 봇
 
 동대문구 장안동에 위치한 동대부고 신입생을 위한 안내 쳇봇입니다. 동대부고 신입생을 위한 챗봇에 오신 것을 환영합니다. 
 
-### 동대부고 처음이지?
+### 동대부고 처음이지? 내 이름은 도깨비야
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 동대부고는 어떤 학교?
+## 동대부고 가고 싶어!
+### 동대부고 가즈아!!!
 
 - Bulleted
 - List
