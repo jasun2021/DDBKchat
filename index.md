@@ -4,8 +4,7 @@
 ![도깨비(텍스트 없이)](https://user-images.githubusercontent.com/81289227/118577240-fc578800-b7c4-11eb-90e4-746887414971.png)
 
 ### 동대부고 처음이지? 내 이름은 도깨비야
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+지원경쟁률이 높은 동대부고! 동대부고에 대하여 알아볼 수 있는 도깨비 봇
 
 ```markdown
 Syntax highlighted code block
